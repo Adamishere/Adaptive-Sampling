@@ -6,7 +6,7 @@
 #Live Optimization
 
 
-setwd("C:/Users/21509/Desktop/NIS capture")
+setwd("C:/Users/21509/Desktop/")
 #Read In
 mydat<-read.csv("balancedLL_1.csv")
 
